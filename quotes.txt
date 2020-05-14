@@ -12,3 +12,5 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+new quote 1 - Python is great
+new quote 2 - Python is easy to learn
